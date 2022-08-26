@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.api.poi.services.UserServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-25T19:43:48" hostname="Diana.Home" time="0.063">
+  <properties/>
+  <testcase name="given_user_when_wantToAddNewUser_then_persistIt()" classname="com.api.poi.services.UserServiceTest" time="0.056"/>
+  <testcase name="user_matchesUserExpected()" classname="com.api.poi.services.UserServiceTest" time="0.001"/>
+  <testcase name="listUser_showAllUserSaved()" classname="com.api.poi.services.UserServiceTest" time="0.001"/>
+  <testcase name="given_user_when_wantToRemoveUser_then_removeUser()" classname="com.api.poi.services.UserServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
